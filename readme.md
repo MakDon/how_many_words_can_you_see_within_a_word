@@ -15,7 +15,7 @@ In, print, trip, nit, tin, pin, net, ten, tie, pin, pit, pen, pet, pie, tiepin, 
 
 ## result
 
-plz refer to file [output](./output)
+plz refer to file [output](./output)    
 the result is different from [Wordmaker.info](Wordmaker.info) because the word list is different.
 
 ## Reference
